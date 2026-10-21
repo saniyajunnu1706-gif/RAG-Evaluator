@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python main.py
 # Check output/final_lesson.md and output/rejection_log.json
 
-### 📂 Output
+### 📂 Output 
 
 - Attempt 1: FAILED - teaches by example, covers key points (proves evaluator works)
 - Attempt 2: PASSED - All 6 checks passed after feeding feedback
