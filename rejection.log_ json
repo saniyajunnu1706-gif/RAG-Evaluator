@@ -1,0 +1,22 @@
+[
+  {
+    "attempt": 1,
+    "status": "FAILED",
+    "evaluation": {
+      "passed": false,
+      "failed_checks": ["teaches by example", "covers the key points", "coherent teaching flow"],
+      "fail_reasons": ["No example found", "Missing what/why/how keywords", "No Part 1/2/3 flow found"]
+    },
+    "what_changed_on_retry": "Added kirana store example, added What is/Why need/How works sections, added Part 1/2/3 structured flow with simple English"
+  },
+  {
+    "attempt": 2,
+    "status": "PASSED",
+    "evaluation": {
+      "passed": true,
+      "failed_checks": [],
+      "score": "6/6 checks passed"
+    },
+    "note": "All rubric checks passed after self-correction"
+  }
+]
